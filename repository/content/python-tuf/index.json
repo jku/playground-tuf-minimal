@@ -1,0 +1,11 @@
+{
+  "python-tuf": {
+    "1.0.0": "python-tuf/python-tuf/1.0.0/tuf-1.0.0-py3-none-any.whl",
+    "1.1.0": "python-tuf/python-tuf/1.1.0/tuf-1.1.0-py3-none-any.whl"
+  },
+  "src": {
+    "1.0.0": "python-tuf/src/1.0.0/tuf-1.0.0.tar.gz",
+    "1.1.0": "python-tuf/src/1.1.0/tuf-1.1.0.tar.gz"
+  }
+}
+

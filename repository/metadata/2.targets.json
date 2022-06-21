@@ -1,0 +1,47 @@
+{
+ "signatures": [
+  {
+   "keyid": "5127f90789a880a7d6041ad3e91e12e8316d892d45a1eb0a870596975147b736",
+   "sig": "ddb9efb822a43c9780f7d517f359f97750630dc8872ab7bdce74d2d1841cef56533cb89e42227c643b0e8350a4feaaf82fbc8045b5f25133a4d20a32870a6b05"
+  }
+ ],
+ "signed": {
+  "_type": "targets",
+  "expires": "3019-01-26T11:52:24Z",
+  "spec_version": "1.0.29",
+  "targets": {
+   "python-tuf/index.json": {
+    "hashes": {
+     "sha256": "7653f4ef1e2ff5f605b398281eae75ddd3214c13076aac703e60802f26ae21c0"
+    },
+    "length": 237
+   },
+   "python-tuf/python-tuf/1.0.0/tuf-1.0.0-py3-none-any.whl": {
+    "hashes": {
+     "sha256": "6d967f992d494678b684a6f5f03d948130e2d9956310c7af74fa2f0296e8ec4d"
+    },
+    "length": 38618
+   },
+   "python-tuf/python-tuf/1.1.0/tuf-1.1.0-py3-none-any.whl": {
+    "hashes": {
+     "sha256": "512a864789e291b5e8f5a5ace0e87b2d158303364a77ad6e53ffd042ba2b4933"
+    },
+    "length": 40504
+   },
+   "python-tuf/src/1.0.0/tuf-1.0.0.tar.gz": {
+    "hashes": {
+     "sha256": "ec74150954d56e206fa72f3b0234ea802649370e528dea5a83e507bd408fda82"
+    },
+    "length": 218507
+   },
+   "python-tuf/src/1.1.0/tuf-1.1.0.tar.gz": {
+    "hashes": {
+     "sha256": "28cd35eafa5aa4223eba03a397d14acb57c522381180db9ff3b54477dcbe1b73"
+    },
+    "length": 243468
+   }
+  },
+  "version": 2,
+  "x-tufrepo-expiry-period": 31449600000
+ }
+}
