@@ -2,19 +2,19 @@
  "signatures": [
   {
    "keyid": "5127f90789a880a7d6041ad3e91e12e8316d892d45a1eb0a870596975147b736",
-   "sig": "ddb9efb822a43c9780f7d517f359f97750630dc8872ab7bdce74d2d1841cef56533cb89e42227c643b0e8350a4feaaf82fbc8045b5f25133a4d20a32870a6b05"
+   "sig": "72f35ed4e505acf8e0195beebab3052ed3942e603a81b70b6e5b3c0bad1efc5cd2e97f1a0dca9911116f125138a714b1e6bbb1896eef57b10a6c10f93a5bb905"
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "3019-01-26T11:52:24Z",
+  "expires": "3019-01-26T16:42:00Z",
   "spec_version": "1.0.29",
   "targets": {
    "python-tuf/index.json": {
     "hashes": {
-     "sha256": "7653f4ef1e2ff5f605b398281eae75ddd3214c13076aac703e60802f26ae21c0"
+     "sha256": "917b5733a9d30f6e9abf974cdc41326a9d791ea3bb07cf4205205c44c0a9cb52"
     },
-    "length": 237
+    "length": 291
    },
    "python-tuf/python-tuf/1.0.0/tuf-1.0.0-py3-none-any.whl": {
     "hashes": {
@@ -41,7 +41,7 @@
     "length": 243468
    }
   },
-  "version": 2,
+  "version": 3,
   "x-tufrepo-expiry-period": 31449600000
  }
 }
