@@ -1,0 +1,137 @@
+{
+ "signatures": [
+  {
+   "keyid": "5127f90789a880a7d6041ad3e91e12e8316d892d45a1eb0a870596975147b736",
+   "sig": "206c5ad56536fdd87b07267a1befd0dcbcae6ad4ff2464b608bc2784db496d99e193537b3ba3481880ad1fcebf5dfe9fa01ec9612c1f8eac8418487909948202"
+  }
+ ],
+ "signed": {
+  "_type": "targets",
+  "expires": "3019-01-27T11:38:08Z",
+  "spec_version": "1.0.29",
+  "targets": {
+   "python-tuf/index.json": {
+    "hashes": {
+     "sha256": "917b5733a9d30f6e9abf974cdc41326a9d791ea3bb07cf4205205c44c0a9cb52"
+    },
+    "length": 291
+   },
+   "python-tuf/python-tuf/1.0.0/tuf-1.0.0-py3-none-any.whl": {
+    "hashes": {
+     "sha256": "6d967f992d494678b684a6f5f03d948130e2d9956310c7af74fa2f0296e8ec4d"
+    },
+    "length": 38618
+   },
+   "python-tuf/python-tuf/1.1.0/tuf-1.1.0-py3-none-any.whl": {
+    "hashes": {
+     "sha256": "512a864789e291b5e8f5a5ace0e87b2d158303364a77ad6e53ffd042ba2b4933"
+    },
+    "length": 40504
+   },
+   "python-tuf/src/1.0.0/tuf-1.0.0.tar.gz": {
+    "hashes": {
+     "sha256": "ec74150954d56e206fa72f3b0234ea802649370e528dea5a83e507bd408fda82"
+    },
+    "length": 218507
+   },
+   "python-tuf/src/1.1.0/tuf-1.1.0.tar.gz": {
+    "hashes": {
+     "sha256": "28cd35eafa5aa4223eba03a397d14acb57c522381180db9ff3b54477dcbe1b73"
+    },
+    "length": 243468
+   },
+   "tuf-spec/index.json": {
+    "hashes": {
+     "sha256": "748f6ce6dc3abf14c65e054f39a4b2dbf96f17287f228fae844281d2dc0bcfe4"
+    },
+    "length": 995
+   },
+   "tuf-spec/tarball/1.0.24/specification-1.0.24.tar.gz": {
+    "hashes": {
+     "sha256": "0b88ea03f317a9708190e96958b6ac1e9ac45bb5ab59c9ffffb95a03cb9b9048"
+    },
+    "length": 48474
+   },
+   "tuf-spec/tarball/1.0.25/specification-1.0.25.tar.gz": {
+    "hashes": {
+     "sha256": "73c1215d0dbfb2b0e0ce693b7b22df4b38ffd25b37a9fd9c010a29cc77650a61"
+    },
+    "length": 48654
+   },
+   "tuf-spec/tarball/1.0.26/specification-1.0.26.tar.gz": {
+    "hashes": {
+     "sha256": "c377ac7bf1f1ff3a8f2e70bd909ce6efe0e3cafde6b550de2998e2efd1acafbf"
+    },
+    "length": 48575
+   },
+   "tuf-spec/tarball/1.0.27/specification-1.0.27.tar.gz": {
+    "hashes": {
+     "sha256": "c1b00281cc29f5d0796721cb6c7b7bb6934ba44a6c62a6e0cc703de5d93e4245"
+    },
+    "length": 48664
+   },
+   "tuf-spec/tarball/1.0.28/specification-1.0.28.tar.gz": {
+    "hashes": {
+     "sha256": "cff197cecda1087e8c72cc821eeb219614c24876ba8f3c292298bde4ef155184"
+    },
+    "length": 48621
+   },
+   "tuf-spec/tarball/1.0.29/specification-1.0.29.tar.gz": {
+    "hashes": {
+     "sha256": "bae29f86063b6711f0a6d50ea382cc214127c56bd79fc81df080237360081713"
+    },
+    "length": 49352
+   },
+   "tuf-spec/tarball/1.0.30/specification-1.0.30.tar.gz": {
+    "hashes": {
+     "sha256": "648dc8c3be0a7de08d654e38556349580926b3e024e22b4f2828eab8895b71c5"
+    },
+    "length": 49485
+   },
+   "tuf-spec/tuf-spec/1.0.24/specification-1.0.24.zip": {
+    "hashes": {
+     "sha256": "5cc071f7a8bb78bd965329c9b390b72ef53e113b1f3642e0d38fe69f644e2637"
+    },
+    "length": 54741
+   },
+   "tuf-spec/tuf-spec/1.0.25/specification-1.0.25.zip": {
+    "hashes": {
+     "sha256": "1f63be9112cfcc8cf3b88c35a8f252e215ee46d9faf20432cd9c478495041349"
+    },
+    "length": 55106
+   },
+   "tuf-spec/tuf-spec/1.0.26/specification-1.0.26.zip": {
+    "hashes": {
+     "sha256": "aca57d3212ead39f771a100c83bf940d7051ac2d3d1e21f54230f7a805ea62b7"
+    },
+    "length": 55028
+   },
+   "tuf-spec/tuf-spec/1.0.27/specification-1.0.27.zip": {
+    "hashes": {
+     "sha256": "37ad602a5fc5d68c2d2d0490286124d2b8539b00d3db15b987c72fc42583aa58"
+    },
+    "length": 55152
+   },
+   "tuf-spec/tuf-spec/1.0.28/specification-1.0.28.zip": {
+    "hashes": {
+     "sha256": "82579f862938a6a8a2c3ed1557aeea285db364aad9763a97415aac73d5f39487"
+    },
+    "length": 55113
+   },
+   "tuf-spec/tuf-spec/1.0.29/specification-1.0.29.zip": {
+    "hashes": {
+     "sha256": "a848c14f6a5ae52fe9c05ba7ec54d30415b0e387306394da9e7c895c3fc7a027"
+    },
+    "length": 56116
+   },
+   "tuf-spec/tuf-spec/1.0.30/specification-1.0.30.zip": {
+    "hashes": {
+     "sha256": "ec5a37eb2bf26a0e6c0bf54d66eaa9b06e3de61fe0779b9678626261ea394b66"
+    },
+    "length": 56252
+   }
+  },
+  "version": 4,
+  "x-tufrepo-expiry-period": 31449600000
+ }
+}
