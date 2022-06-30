@@ -2,20 +2,14 @@
  "signatures": [
   {
    "keyid": "5127f90789a880a7d6041ad3e91e12e8316d892d45a1eb0a870596975147b736",
-   "sig": "206c5ad56536fdd87b07267a1befd0dcbcae6ad4ff2464b608bc2784db496d99e193537b3ba3481880ad1fcebf5dfe9fa01ec9612c1f8eac8418487909948202"
+   "sig": "520283369afe8130fef1e23e8dd013cafa1de79e2470c8708c91f853651e0eca04d78ec345040ea006a3b00c534c8025c022ab3a3d17e9d68a6ebde249c4c000"
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "3019-01-27T11:38:08Z",
+  "expires": "3019-02-04T06:09:09Z",
   "spec_version": "1.0.29",
   "targets": {
-   "python-tuf/index.json": {
-    "hashes": {
-     "sha256": "917b5733a9d30f6e9abf974cdc41326a9d791ea3bb07cf4205205c44c0a9cb52"
-    },
-    "length": 291
-   },
    "python-tuf/python-tuf/1.0.0/tuf-1.0.0-py3-none-any.whl": {
     "hashes": {
      "sha256": "6d967f992d494678b684a6f5f03d948130e2d9956310c7af74fa2f0296e8ec4d"
@@ -39,12 +33,6 @@
      "sha256": "28cd35eafa5aa4223eba03a397d14acb57c522381180db9ff3b54477dcbe1b73"
     },
     "length": 243468
-   },
-   "tuf-spec/index.json": {
-    "hashes": {
-     "sha256": "748f6ce6dc3abf14c65e054f39a4b2dbf96f17287f228fae844281d2dc0bcfe4"
-    },
-    "length": 995
    },
    "tuf-spec/tarball/1.0.24/specification-1.0.24.tar.gz": {
     "hashes": {
@@ -131,7 +119,7 @@
     "length": 56252
    }
   },
-  "version": 4,
+  "version": 5,
   "x-tufrepo-expiry-period": 31449600000
  }
 }
